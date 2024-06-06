@@ -1,4 +1,4 @@
-# TypeScript Checkout System
+# Checkout System
 
 This project implements a checkout system in TypeScript, applying various discount rules to a set of scanned items.
 
